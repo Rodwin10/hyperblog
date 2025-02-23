@@ -11,12 +11,12 @@ body {
     font-weight: bold;
     margin: 0%;
     padding: 0.5em;
-} 
+  } 
 
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: bold;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 #container {
@@ -28,5 +28,5 @@ body {
 }
 
 #container h1 {
-    font-size: 30px;
+    font-size: 20px;
 }
